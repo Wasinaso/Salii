@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Salii</string>
+    <string name="new_game_button">Start a New Game</string>
+    <string name="load_existing_game_button">Load Existing Game</string>
+    <string name="player_name">player name</string>
+    <string name="planet_name">planet name</string>
+</resources>
