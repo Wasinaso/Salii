@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 Log.d(NEW_GAME, "onClick: New Game Started");
                 Intent intent = new Intent(view.getContext(),NewGameActivity.class);
-                    startActivity(intent);
+                startActivity(intent);
             }
         });
     }

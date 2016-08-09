@@ -28,4 +28,5 @@
         android:text="SAVE"
         android:layout_below="@id/player_name_input"
         android:id="@+id/planet_save_button"/>
+
 </RelativeLayout>
